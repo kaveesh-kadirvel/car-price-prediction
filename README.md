@@ -51,7 +51,7 @@ The models are evaluated using:
 1. Clone the repository:
 
 bash
-git clone https://github.com/Akshu121796/CarPricePrediction.git
+git clone https://github.com/kaveesh-kadirvel/CarPricePrediction.git
 cd CarPricePrediction
 
 
