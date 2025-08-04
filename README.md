@@ -23,11 +23,8 @@ Pandas, NumPy, Matplotlib, Seaborn
 Scikit-learn (Regression models, preprocessing, metrics)
 
 # 🚀 How to Run
-bash
-Copy
-Edit
 // Clone the repo
-git clone https://github.com/your-username/car-price-prediction.git
+git clone https://github.com/kaveesh-kadirvel/car-price-prediction.git
 
 // Install dependencies
 pip install -r requirements.txt
