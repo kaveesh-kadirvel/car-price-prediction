@@ -4,13 +4,13 @@ This project predicts the selling price of a car based on various features using
 
 ## 📁 Project Structure
 
-
+```
 CarPricePrediction/
 ├── CarPricePrediction.ipynb  # Main Jupyter notebook
 ├── data/                     # (Optional) Dataset directory
 ├── README.md                 # Project overview
 └── requirements.txt          # Python dependencies
-
+```
 
 ## 🔍 Problem Statement
 
