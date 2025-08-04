@@ -46,26 +46,26 @@ The models are evaluated using:
 * MAE (Mean Absolute Error)
 * Cross-validation
 
-## 🛠 How to Run
+## 🛠️ How to Run
 
 1. Clone the repository:
 
-bash
-git clone https://github.com/kaveesh-kadirvel/Car-Price-Prediction.git
+```bash
+git clone https://github.com/Akshu121796/CarPricePrediction.git
 cd CarPricePrediction
-
+```
 
 2. Install dependencies:
 
-bash
+```bash
 pip install -r requirements.txt
-
+```
 
 3. Run the Jupyter Notebook:
 
-bash
+```bash
 jupyter notebook CarPricePrediction.ipynb
-
+```
 
 ## 📈 Results
 
