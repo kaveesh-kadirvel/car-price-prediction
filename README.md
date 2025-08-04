@@ -51,8 +51,10 @@ The models are evaluated using:
 1. Clone the repository:
 
 ```bash
+```
 git clone https://github.com/Akshu121796/CarPricePrediction.git
 cd CarPricePrediction
+```
 ```
 
 2. Install dependencies:
