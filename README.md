@@ -24,12 +24,15 @@ Scikit-learn (Regression models, preprocessing, metrics)
 
 # 🚀 How to Run
 // Clone the repo
+
 git clone https://github.com/kaveesh-kadirvel/car-price-prediction.git
 
 // Install dependencies
+
 pip install -r requirements.txt
 
 // Run the notebook
+
 jupyter notebook CarPricePrediction.ipynb
 
 
